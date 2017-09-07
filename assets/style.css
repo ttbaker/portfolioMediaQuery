@@ -9,7 +9,11 @@ p {
 	margin-bottom: 10px;
 }
 
-.linkIcon {
-	height: 15px;
-	width: 15px;
+#main {
+	margin-left: 10px;
+	/*background-image: url('images/concrete-texture.png');*/
 }
+
+#connect img { 
+	width: 50px;
+ }
