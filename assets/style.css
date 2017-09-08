@@ -11,9 +11,24 @@ p {
 
 #main {
 	margin-left: 10px;
-	/*background-image: url('images/concrete-texture.png');*/
 }
 
 #connect img { 
 	width: 50px;
+ }
+
+ section {
+ 	background-image: url('images/concrete-texture.png');
+ }
+
+ #mainbody {
+ 	background-color: white;
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+
+ @media screen and (max-width: 500px;) {
+ 	#headshot {
+ 		width: 50%;
+ 	}
  }
